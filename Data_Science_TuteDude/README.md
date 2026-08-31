@@ -122,7 +122,7 @@ A trained classification model (`trained_model.sav`) is wrapped in an interactiv
 | Assignment 4 | KNN — Diabetes prediction |
 | Assignment 5 | Naive Bayes — Titanic dataset |
 | Assignment 6 | Time series — ARIMA on daily sales |
-| Assignment 7 | (Reserved / in progress) |
+| Assignment 7 | Cardiac Disease Prediction Model |
 
 ## 🛠️ Tech Stack & Tools
 
